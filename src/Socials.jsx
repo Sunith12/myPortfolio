@@ -46,4 +46,6 @@ const Socials = () => {
   );
 };
 
+<a href="/resume.pdf" download className="resume-button">
+  <DownloadIcon /> Download Resume
 export default Socials;
