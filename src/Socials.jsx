@@ -15,7 +15,7 @@ const socialsData = [
   },
   {
     name: 'Email',
-    url: 'mailto:appasani9@outlook.com',
+    url: 'mailto:sunith.appasani9@outlook.com',
     icon: mail
   }
 ];
