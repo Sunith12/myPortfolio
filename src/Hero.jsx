@@ -19,10 +19,10 @@ const Hero = () => {
         <p className="typewriter-text">
         <Typewriter
             words={[
-            'Software Engineer',
+            'Actively Seeking Job Oppurtunities'
             'Cloud Engineer',
             'DevOps Engineer',
-            'Salesforce Developer / Salesforce Consultant',
+            'Salesforce Developer / Consultant',
             ]}
             loop={true}
             cursor
